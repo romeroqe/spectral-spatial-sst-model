@@ -16,7 +16,7 @@ git clone https://github.com/romeroqe/spectral-spatial-sst-model.git
 To explore the demos, navigate to the `demo` folder and run the scripts as described.
 
 ## Datasets
-The datasets generated in the study, including GAM skill, predictor maps with their dominant modes (period, amplitude, phase), as well as the hindcast and forecast, are publicly available in SEANOE at https://www.seanoe.org/preview/113767?token=CmMgKwF35Xlpxtbl99kuc6BEDFgw41aZ.
+The datasets generated in the study, including GAM skill, predictor maps with their dominant modes (period, amplitude, phase), as well as the hindcast and forecast, are publicly available in SEANOE at [https://www.seanoe.org/preview/113767?token=CmMgKwF35Xlpxtbl99kuc6BEDFgw41aZ](https://www.seanoe.org/preview/114395?token=A3HliZ68V9TqlWNe26DftJj6HdguJdNw).
 
 ## How to cite
 
